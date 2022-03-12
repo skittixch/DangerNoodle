@@ -21,7 +21,7 @@ A(create a small number of NFTs for limited presale) --> B(presale and community
 
 ```mermaid
 pie
-    title Pie Chart
+    title funding allocation
     "development fund" : 386
     "Edie" : 85
     "community giveaways" : 150 
