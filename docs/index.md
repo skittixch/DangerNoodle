@@ -9,7 +9,9 @@
 
 ```mermaid
 graph TD
-A(create a small number of NFTs for limited presale) --> B(presale and community building)
+    A1(deploy functional minting test on devnet) --> |You are here| A2(create website)
+    A2 --> A(create a small number of NFTs for limited presale)
+    A --> B(presale and community building)
     B --> C(pick a date and try to gague how many would sell out. maybe 500-1000?)
     C --> D(marketing push with initial capital from presale)
     D --> E(release the rest at full price)
