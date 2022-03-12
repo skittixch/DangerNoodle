@@ -28,3 +28,13 @@ pie
     "Edie" : 85
     "community giveaways" : 150 
 ```
+
+## social
+[<img src="https://blog.hootsuite.com/wp-content/uploads/2018/09/Twitter_Logo_Blue-150x150.png" alt="twitter" width="50">](twitter.com)
+[<img src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" alt="discord" width="50">](discord.com)
+
+## team
+* coming soon
+* coming soon
+
+
